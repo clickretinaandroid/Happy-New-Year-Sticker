@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.wastickerapps.hnystickers">
+    <!-- These permissions are strongly recommended and will result in higher performance -->
+    <uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:maxSdkVersion="18" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name="com.wastickerapps.hnystickers.StickerApplication"
+        android:allowBackup="false"
+        android:fullBackupContent="false"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/hny_icon"
+        android:label="@string/app_name"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:roundIcon="@drawable/hny_icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name="com.wastickerapps.hnystickers.WebViewActivity"></activity>
+        <activity android:name="com.wastickerapps.hnystickers.EntryActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.wastickerapps.hnystickers.StickerPackListActivity"
+            android:label="@string/title_activity_sticker_packs_list" />
+        <activity
+            android:name="com.wastickerapps.hnystickers.StickerPackDetailsActivity"
+            android:parentActivityName="com.wastickerapps.hnystickers.StickerPackListActivity"
+            tools:ignore="UnusedAttribute">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.wastickerapps.hnystickers.StickerPackListActivity" />
+        </activity>
+        <activity
+            android:name="com.wastickerapps.hnystickers.StickerPackInfoActivity"
+            android:label="@string/title_activity_sticker_pack_info"
+            android:parentActivityName="com.wastickerapps.hnystickers.StickerPackDetailsActivity"
+            tools:ignore="UnusedAttribute">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.wastickerapps.hnystickers.StickerPackDetailsActivity" />
+        </activity>
+
+        <provider
+            android:name="com.wastickerapps.hnystickers.StickerContentProvider"
+            android:authorities="${contentProviderAuthority}"
+            android:enabled="true"
+            android:exported="true"
+            android:readPermission="com.whatsapp.sticker.READ" />
+
+        <activity
+            android:name="fb.adstest.FbAdsTest"
+            android:label="@string/title_activity_fb_ads_test"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="fb.adstest.InterstitialAdsFb">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="fb.adstest.NativeBannerAdFb">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+       <!-- <activity
+            android:name="com.applovin.adview.AppLovinInterstitialActivity"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.applovin.adview.AppLovinConfirmationActivity"
+            android:configChanges="orientation|screenSize" />-->
+
+        <meta-data
+            android:name="applovin.sdk.key"
+            android:value="su4umv3d8_tnZ2LVyhGbpHI9dtKbENn4Fsz0l0dt_VeZT-3UfK4TbNdDEypTKaTZQVZ9VC1Vif3Fe7kJSpn2AP" />
+
+        <meta-data
+
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-5820722969718167~2203241330"/>
+        <meta-data
+            android:name="com.google.android.gms.ads.AD_MANAGER_APP"
+            android:value="true"/>
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="1a8d2977f28f8d837ce5d5cb37dfdb7084b3b502" />
+    </application>
+
+    <uses-permission android:name="android.permission.INTERNET" />
+</manifest>

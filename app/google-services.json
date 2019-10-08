@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "469513957478",
+    "firebase_url": "https://christmas-sticker-3eb92.firebaseio.com",
+    "project_id": "christmas-sticker-3eb92",
+    "storage_bucket": "christmas-sticker-3eb92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469513957478:android:f6939357e3aa21375bbda7",
+        "android_client_info": {
+          "package_name": "com.wastickerapps.hnystickers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469513957478-f3l0no5c4mjlii0qk54cc3gsptfmes9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wastickerapps.hnystickers",
+            "certificate_hash": "d932462a14dd885f2d99dad69ea448968ebddf53"
+          }
+        },
+        {
+          "client_id": "469513957478-un6chjmg89pv7ipldtvhkatkcjkptgff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmW2LRaKY4BepRjUPrV9pKa9u5wt0iFMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469513957478-un6chjmg89pv7ipldtvhkatkcjkptgff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

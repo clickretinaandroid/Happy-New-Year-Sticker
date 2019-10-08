@@ -1,0 +1,390 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.wastickerapps.hnystickers",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+
+
+
+
+    {
+      "identifier": "1",
+      "name": "Happy New Year Sticker",
+      "publisher": "The Captain Flint",
+      "tray_image_file": "tryicon.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+
+        {
+          "image_file": "sticker.webp"
+
+        },
+        {
+          "image_file": "sticker1.webp"
+        },
+        {
+          "image_file": "sticker2.webp"
+        },
+
+        {
+          "image_file": "sticker4.webp"
+        },
+        {
+          "image_file": "sticker5.webp"
+        },
+        {
+          "image_file": "sticker6.webp"
+        },
+        {
+          "image_file": "sticker7.webp"
+        }, {
+          "image_file": "sticker8.webp"
+
+        },
+        {
+          "image_file": "sticker9.webp"
+        },
+        {
+          "image_file": "sticker10.webp"
+        },
+
+        {
+          "image_file": "sticker11.webp"
+        },
+        {
+          "image_file": "sticker12.webp"
+        },
+        {
+          "image_file": "sticker13.webp"
+        },
+        {
+          "image_file": "sticker14.webp"
+        },
+        {
+          "image_file": "sticker15.webp"
+        }, {
+          "image_file": "sticker16.webp"
+
+        },
+        {
+          "image_file": "sticker17.webp"
+        },
+        {
+          "image_file": "sticker18.webp"
+        },
+
+
+        {
+          "image_file": "sticker20.webp"
+        },
+        {
+          "image_file": "sticker21.webp"
+        },
+        {
+          "image_file": "sticker22.webp"
+        },
+        {
+          "image_file": "sticker23.webp"
+        },
+        {
+          "image_file": "sticker25.webp"
+        },
+        {
+          "image_file": "sticker26.webp"
+        },
+        {
+          "image_file": "sticker27.webp"
+        },
+        {
+          "image_file": "sticker28.webp"
+        },
+        {
+          "image_file": "sticker29.webp"
+        }
+      ]
+    },{
+      "identifier": "2",
+      "name": "Happy New Year Stickers",
+      "publisher": "The Captain Flint",
+      "tray_image_file": "tryicon.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers":[
+        {
+          "image_file": "1.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["ðŸ˜„","ðŸ˜€"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["ðŸ˜†","ðŸ˜‚"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["ðŸ˜©","ðŸ˜°"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["ðŸ˜­","ðŸ’§"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["ðŸ˜","â™¥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["ðŸ’”","ðŸ‘Ž"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["ðŸ˜","ðŸ’‘"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["ðŸ˜˜","ðŸª"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["ðŸ¤”","ðŸ˜"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["ðŸ˜±","ðŸ˜µ"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["ðŸ˜¡","ðŸ˜ "]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["â“","ðŸ¤”"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["ðŸŒˆ","ðŸ˜œ"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["ðŸ’»","ðŸ˜©"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["ðŸ˜¡","ðŸ˜¤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["ðŸ˜©","ðŸ˜¨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["ðŸ’»","ðŸŒƒ"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["ðŸŽ‰","âœ¨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["ðŸ¤®","ðŸ‘Ž"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["ðŸ–","ðŸ™‹"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["ðŸ–","ðŸ‘‹"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["ðŸµ","ðŸ˜Œ"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["Ã°Å¸â€œÂ±","Ã°Å¸ËœÂ¦"]
+        }
+      ]
+    },
+
+    {
+      "identifier": "3",
+      "name": "Happy New Year Stickers",
+      "publisher": "The Captain Flint",
+      "tray_image_file": "tryicon.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+
+        {
+          "image_file": "sticker.webp"
+
+        },
+        {
+          "image_file": "sticker1.webp"
+        },
+        {
+          "image_file": "sticker2.webp"
+        },
+
+        {
+          "image_file": "sticker3.webp"
+        },
+        {
+          "image_file": "sticker4.webp"
+        },
+        {
+          "image_file": "sticker5.webp"
+        },
+        {
+          "image_file": "sticker6.webp"
+        },
+        {
+          "image_file": "sticker7.webp"
+        }, {
+          "image_file": "sticker8.webp"
+
+        },
+        {
+          "image_file": "sticker9.webp"
+        },
+        {
+          "image_file": "sticker10.webp"
+        },
+
+        {
+          "image_file": "sticker11.webp"
+        },
+        {
+          "image_file": "sticker12.webp"
+        },
+        {
+          "image_file": "sticker13.webp"
+        },
+        {
+          "image_file": "sticker14.webp"
+        },
+        {
+          "image_file": "sticker15.webp"
+        },
+        {
+          "image_file": "sticker17.webp"
+        },
+        {
+          "image_file": "sticker18.webp"
+        },
+
+        {
+          "image_file": "sticker19.webp"
+        },
+        {
+          "image_file": "sticker20.webp"
+        },
+        {
+          "image_file": "sticker21.webp"
+        },
+        {
+          "image_file": "sticker22.webp"
+        },
+        {
+          "image_file": "sticker23.webp"
+        }, {
+          "image_file": "sticker24.webp"
+
+        },
+        {
+          "image_file": "sticker25.webp"
+        },
+
+        {
+          "image_file": "sticker27.webp"
+        },
+
+        {
+          "image_file": "sticker29.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "Happy New Year Sticker",
+      "publisher": "The Captain Flint",
+      "tray_image_file": "logo.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["😀","😀"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😀","😁"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😀","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😀","🤣"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😀","😃"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😀","😄"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😀","😅"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😀","😆"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😀","😉"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😀","😊"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😀","😋"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😀","😎"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😀","😍"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😀","😘"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😀","😘"]
+        }
+      ]
+    }
+
+  ]
+}
